@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "10.77259851",
+      "43.70591427"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of gross capital formation for Suriname.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "question": "Order all countries from lowest to highest gross capital formation rate for the year 1974.",
+    "name": "order",
+    "answers": [
+      "Lesotho",
+      "Congo Rep.",
+      "Algeria",
+      "Botswana",
+      "Greece",
+      "Suriname",
+      "Venezuela",
+      "Swaziland",
+      "Togo",
+      "Chad"
+    ],
+    "correct answer": [
+      "Lesotho",
+      "Togo",
+      "Chad",
+      "Swaziland",
+      "Venezuela",
+      "Congo Rep.",
+      "Algeria",
+      "Suriname",
+      "Botswana",
+      "Greece"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Greece in 1994"
+    ],
+    "type": "radio",
+    "question": "Which of the following gross capital formation rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Swaziland in 1970",
+      "Congo Rep. in 1978",
+      "Greece in 1994"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "16.66666667",
+      "43.33333333"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of agricultural land ratios for Maldives.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Ireland",
+      "Comoros",
+      "Gambia",
+      "China",
+      "Costa Rica",
+      "Paraguay",
+      "Guatemala",
+      "Maldives",
+      "Grenada",
+      "Puerto Rico"
+    ],
+    "question": "Order all countries from lowest to highest agricultural land ratio for the year 1992.",
+    "correct answer": [
+      "Maldives",
+      "Grenada",
+      "Guatemala",
+      "Paraguay",
+      "Puerto Rico",
+      "Costa Rica",
+      "China",
+      "Gambia",
+      "Ireland",
+      "Comoros"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Maldives in 2000"
+    ],
+    "type": "radio",
+    "question": "Which of the following agricultural land ratios is the lowest?",
+    "name": "choice",
+    "answers": [
+      "China in 1972",
+      "Paraguay in 1988",
+      "Maldives in 2000"
+    ]
+  }
+]

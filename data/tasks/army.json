@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "3.1956273",
+      "9.2542362"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of armed forces personnel ratios for Singapore.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Syria",
+      "Jordan",
+      "Singapore",
+      "Lebanon",
+      "Brunei",
+      "Bahrain",
+      "Cambodia",
+      "Croatia",
+      "Libya",
+      "Azerbaijan"
+    ],
+    "correct answer": [
+      "Azerbaijan",
+      "Libya",
+      "Croatia",
+      "Brunei",
+      "Cambodia",
+      "Lebanon",
+      "Bahrain",
+      "Singapore",
+      "Syria",
+      "Jordan"
+    ],
+    "question": "Order all countries from lowest to highest for the year 2000."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Cambodia in 2001"
+    ],
+    "type": "radio",
+    "question": "Which of the following armed forces personnel ratios is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Lebanon in 1993",
+      "Cambodia in 2001",
+      "Libya in 1996"
+    ]
+  }
+]

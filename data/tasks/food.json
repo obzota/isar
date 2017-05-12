@@ -1,0 +1,62 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "6.925",
+      "19.49140808"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of food consumption for Libya.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "correct answer": [
+      "Macedonia",
+      "Uzbekistan",
+      "Argentina",
+      "Kyrgyzstan",
+      "Dom. Rep.",
+      "Latvia",
+      "Paraguay",
+      "Mexico",
+      "Estonia",
+      "Venezuela"
+    ],
+    "answers": [
+      "Greece",
+      "Cyprus",
+      "Korea Rep.",
+      "Libya",
+      "Jamaica",
+      "Syria",
+      "Iran",
+      "Seychelles",
+      "Chad",
+      "Gambia"
+    ],
+    "question": "Order all countries from lowest to highest food consumption for the year 1975."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Estonia in 2004"
+    ],
+    "type": "radio",
+    "question": "Which of the following food consumptions is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Iran in 1963",
+      "Chad in 1971",
+      "Gambia in 1965"
+    ],
+    "colors": [
+      2,
+      4,
+      8
+    ]
+  }
+]

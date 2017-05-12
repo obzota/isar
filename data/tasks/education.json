@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "6.076384106",
+      "17.98184525"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of education aid ratios for Italy.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "question": "Order all countries from lowest to highest education aid ratio for the year 1990.",
+    "name": "order",
+    "answers": [
+      "Austria",
+      "France",
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Netherlands",
+      "Italy",
+      "Denmark",
+      "United States",
+      "Norway"
+    ],
+    "correct answer": [
+      "Denmark",
+      "Norway",
+      "Italy",
+      "United States",
+      "Netherlands",
+      "Belgium",
+      "Canada",
+      "Austria",
+      "France",
+      "Australia"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Canada in 1996"
+    ],
+    "type": "radio",
+    "question": "Which of the following education aid ratios is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Belgium in 1991",
+      "Canada in 1996",
+      "Italy in 1993"
+    ]
+  }
+]

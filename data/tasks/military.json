@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "0.83665955",
+      "5.721950418"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of military expenditures for Sudan.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "correct answer": [
+      "Georgia",
+      "Macedonia",
+      "Zimbabwe",
+      "Sudan",
+      "Croatia",
+      "Brunei",
+      "Kuwait",
+      "Ethiopia",
+      "Saudi Arabia",
+      "Angola"
+    ],
+    "question": "Order all countries from lowest to highest military expenditures for the year 1999.",
+    "name": "order",
+    "answers": [
+      "Saudi Arabia",
+      "Kuwait",
+      "Zimbabwe",
+      "Sudan",
+      "Georgia",
+      "Macedonia",
+      "Croatia",
+      "Brunei",
+      "Ethiopia",
+      "Angola"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Croatia in 2005"
+    ],
+    "type": "radio",
+    "question": "Which of the following military expenditures is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Macedonia in 1998",
+      "Croatia in 2005",
+      "Ethiopia in 1997"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "6.925",
+      "19.49140808"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of homicide rates for Dom. Rep.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Venezuela",
+      "Dom. Rep.",
+      "Paraguay",
+      "Estonia",
+      "Mexico",
+      "Latvia",
+      "Kyrgyzstan",
+      "Argentina",
+      "Uzbekistan",
+      "Macedonia"
+    ],
+    "correct answer": [
+      "Macedonia",
+      "Uzbekistan",
+      "Argentina",
+      "Kyrgyzstan",
+      "Dom. Rep.",
+      "Latvia",
+      "Paraguay",
+      "Mexico",
+      "Estonia",
+      "Venezuela"
+    ],
+    "question": "Order all countries from lowest to highest homicide rate for the year 1999."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Estonia in 2004"
+    ],
+    "type": "radio",
+    "question": "Which of the following homicide rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Venezuela in 1998",
+      "Estonia in 2004",
+      "Kyrgyzstan in 2000"
+    ],
+    "colors": [
+      2,
+      4,
+      8
+    ]
+  }
+]

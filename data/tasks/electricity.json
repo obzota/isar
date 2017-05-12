@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "2578.690752",
+      "10902.91761"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of electricity consumption for Qatar.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Norway",
+      "Iceland",
+      "Canada",
+      "Sweden",
+      "Finland",
+      "Qatar",
+      "Bahrain",
+      "Kuwait",
+      "Brunei",
+      "Taiwan"
+    ],
+    "correct answer": [
+      "Taiwan",
+      "Brunei",
+      "Bahrain",
+      "Qatar",
+      "Kuwait",
+      "Finland",
+      "Sweden",
+      "Canada",
+      "Iceland",
+      "Norway"
+    ],
+    "question": "Order all countries from lowest to highest electricity consumption for the year 1995."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Bahrain in 1992"
+    ],
+    "type": "radio",
+    "question": "Which of the following electricity consumptions is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Finland in 1980",
+      "Iceland in 1974",
+      "Bahrain in 1992"
+    ]
+  }
+]

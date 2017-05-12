@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "193.8742593",
+      "479.740547"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of external debt rates for Congo Rep.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "question": "Order all countries from lowest to highest external debt rates for the year 1997.",
+    "name": "order",
+    "answers": [
+      "Guinea-Bissau",
+      "Congo Rep.",
+      "Guyana",
+      "Nicaragua",
+      "Mozambique",
+      "Angola",
+      "Yemen",
+      "Eritrea",
+      "Argentina",
+      "Burundi"
+    ],
+    "correct answer": [
+      "Eritrea",
+      "Argentina",
+      "Yemen",
+      "Burundi",
+      "Angola",
+      "Nicaragua",
+      "Mozambique",
+      "Guyana",
+      "Congo Rep.",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Mozambique in 2000"
+    ],
+    "type": "radio",
+    "question": "Which of the following debt rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Congo Rep. in 2003",
+      "Nicaragua in 1997",
+      "Mozambique in 2000"
+    ]
+  }
+]

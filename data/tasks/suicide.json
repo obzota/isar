@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "11.58661",
+      "19.5681"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of suicide rates for Sweden.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "correct answer": [
+      "Ireland",
+      "Norway",
+      "Canada",
+      "New Zealand",
+      "Belgium",
+      "Sweden",
+      "Switzerland",
+      "Denmark",
+      "Finland",
+      "Japan"
+    ],
+    "question": "Order all countries from lowest suicide rate to highest for the year 1959.",
+    "name": "order",
+    "answers": [
+      "Finland",
+      "Denmark",
+      "Switzerland",
+      "Japan",
+      "Sweden",
+      "Belgium",
+      "Canada",
+      "New Zealand",
+      "Norway",
+      "Ireland"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Sweden in 1994"
+    ],
+    "type": "radio",
+    "question": "Which of the following suicide rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Switzerland in 1964",
+      "Sweden in 1994",
+      "Canada in 1984"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "5.4",
+      "10.5"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of HIV prevalence for Kenya.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Zimbabwe",
+      "Botswana",
+      "Lesotho",
+      "Swaziland",
+      "South Africa",
+      "Namibia",
+      "Mozambique",
+      "Kenya",
+      "Uganda",
+      "Malawi"
+    ],
+    "correct answer": [
+      "Uganda",
+      "Kenya",
+      "Mozambique",
+      "Malawi",
+      "Namibia",
+      "South Africa",
+      "Zimbabwe",
+      "Lesotho",
+      "Swaziland",
+      "Botswana"
+    ],
+    "question": "Order all countries from lowest to highest HIV prevalence for the year 2003."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Zimbabwe in 2009"
+    ],
+    "type": "radio",
+    "question": "Which of the following HIV prevalences is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Botswana in 1995",
+      "South Africa in 2003",
+      "Zimbabwe in 2009"
+    ]
+  }
+]

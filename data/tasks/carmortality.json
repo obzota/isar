@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "0.589",
+      "6.495"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of car mortality rates for Costa Rica.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "correct answer": [
+      "Ecuador",
+      "Korea Rep.",
+      "Brazil",
+      "Costa Rica",
+      "France",
+      "South Africa",
+      "Iceland",
+      "Spain",
+      "Estonia",
+      "Latvia"
+    ],
+    "question": "Order all countries from lowest to highest car mortality rate for the year 1998.",
+    "name": "order",
+    "answers": [
+      "Latvia",
+      "Estonia",
+      "Spain",
+      "Iceland",
+      "Brazil",
+      "South Africa",
+      "France",
+      "Ecuador",
+      "Korea Rep.",
+      "Costa Rica"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Korea Rep. in 2000"
+    ],
+    "type": "radio",
+    "question": "Which of the following car mortality rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Estonia in 2005",
+      "Brazil in 1998",
+      "Korea Rep. in 2000"
+    ]
+  }
+]

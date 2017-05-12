@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "8.8",
+      "13.4"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of health expense rates for Tuvalu.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "answers": [
+      "Malawi",
+      "Timor-Leste",
+      "Tuvalu",
+      "Lebanon",
+      "Zimbabwe",
+      "Guinea-Bissau",
+      "Maldives",
+      "Botswana",
+      "Rwanda",
+      "Iraq"
+    ],
+    "correct answer": [
+      "Iraq",
+      "Rwanda",
+      "Guinea-Bissau",
+      "Botswana",
+      "Maldives",
+      "Zimbabwe",
+      "Malawi",
+      "Timor-Leste",
+      "Tuvalu",
+      "Lebanon"
+    ],
+    "question": "Order all countries from lowest to highest health expense rate for the year 1999."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Botswana in 1998"
+    ],
+    "type": "radio",
+    "question": "Which of the following health expense rates is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Rwanda in 2003",
+      "Zimbabwe in 2001",
+      "Botswana in 1998"
+    ]
+  }
+]

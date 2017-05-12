@@ -1,0 +1,62 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "6.925",
+      "19.49140808"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of birth care ratios for Cambodia.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "name": "order",
+    "correct answer": [
+      "Macedonia",
+      "Uzbekistan",
+      "Argentina",
+      "Kyrgyzstan",
+      "Dom. Rep.",
+      "Latvia",
+      "Paraguay",
+      "Mexico",
+      "Estonia",
+      "Venezuela"
+    ],
+    "answers": [
+      "Syria",
+      "Jordan",
+      "Singapore",
+      "Lebanon",
+      "Brunei",
+      "Bahrain",
+      "Cambodia",
+      "Croatia",
+      "Libya",
+      "Azerbaijan"
+    ],
+    "question": "Order all countries from lowest to highest birth care ratio for the year 2000."
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Estonia in 2004"
+    ],
+    "type": "radio",
+    "question": "Which of the following birth care ratios is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Lebanon in 1993",
+      "Bahrain in 1994",
+      "Libya in 1999"
+    ],
+    "colors": [
+      2,
+      4,
+      8
+    ]
+  }
+]

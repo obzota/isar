@@ -1,0 +1,57 @@
+[
+  {
+    "useColors": false,
+    "correct answer": [
+      "5.31",
+      "31.15"
+    ],
+    "type": "two-bar",
+    "question": "Indicate the range of CO2 emissions for Bahrain.",
+    "name": "range",
+    "answers": []
+  },
+  {
+    "useColors": true,
+    "type": "rank",
+    "correct answer": [
+      "Gibraltar",
+      "Faeroe Islands",
+      "Singapore",
+      "New Caledonia",
+      "Bahrain",
+      "Kuwait",
+      "Bahamas",
+      "Luxembourg",
+      "Brunei",
+      "Qatar"
+    ],
+    "question": "Order all countries from lowest to highest CO2 emissions for the year 1972.",
+    "name": "order",
+    "answers": [
+      "Qatar",
+      "Luxembourg",
+      "Kuwait",
+      "Brunei",
+      "Bahrain",
+      "Bahamas",
+      "New Caledonia",
+      "Singapore",
+      "Faeroe Islands",
+      "Gibraltar"
+    ]
+  },
+  {
+    "useColors": false,
+    "correct answer": [
+      "Qatar in 1988"
+    ],
+    "type": "radio",
+    "question": "Which of the following CO2 emissions is the lowest?",
+    "name": "choice",
+    "answers": [
+      "Qatar in 1988",
+      "Bahrain in 2000",
+      "Bahamas in 1976"
+    ]
+  }
+]
